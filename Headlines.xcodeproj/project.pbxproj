@@ -7,12 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FFE4C2361B4A23D50060399A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C2351B4A23D50060399A /* AppDelegate.swift */; };
-		FFE4C2381B4A23D50060399A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C2371B4A23D50060399A /* ViewController.swift */; };
 		FFE4C23B1B4A23D50060399A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C2391B4A23D50060399A /* Main.storyboard */; };
 		FFE4C23D1B4A23D50060399A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C23C1B4A23D50060399A /* Images.xcassets */; };
 		FFE4C2401B4A23D50060399A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C23E1B4A23D50060399A /* LaunchScreen.xib */; };
 		FFE4C24C1B4A23D50060399A /* HeadlinesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C24B1B4A23D50060399A /* HeadlinesTests.swift */; };
+		FFE4C26D1B4A247F0060399A /* AFDateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C2551B4A247F0060399A /* AFDateExtension.swift */; };
+		FFE4C26E1B4A247F0060399A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C2561B4A247F0060399A /* AppDelegate.swift */; };
+		FFE4C26F1B4A247F0060399A /* Apple_Swift_Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C2571B4A247F0060399A /* Apple_Swift_Logo.png */; };
+		FFE4C2701B4A247F0060399A /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C2581B4A247F0060399A /* Base.lproj */; };
+		FFE4C2711B4A247F0060399A /* CNN.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C2591B4A247F0060399A /* CNN.png */; };
+		FFE4C2721B4A247F0060399A /* default in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C25A1B4A247F0060399A /* default */; };
+		FFE4C2731B4A247F0060399A /* Fox News.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C25B1B4A247F0060399A /* Fox News.png */; };
+		FFE4C2741B4A247F0060399A /* headshot.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C25C1B4A247F0060399A /* headshot.png */; };
+		FFE4C2751B4A247F0060399A /* Huffington Post.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C25D1B4A247F0060399A /* Huffington Post.jpg */; };
+		FFE4C2761B4A247F0060399A /* Huffington Post.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C25E1B4A247F0060399A /* Huffington Post.png */; };
+		FFE4C2771B4A247F0060399A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C25F1B4A247F0060399A /* Images.xcassets */; };
+		FFE4C2781B4A247F0060399A /* Just.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C2601B4A247F0060399A /* Just.swift */; };
+		FFE4C2791B4A247F0060399A /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C2611B4A247F0060399A /* Media.xcassets */; };
+		FFE4C27A1B4A247F0060399A /* newspaper-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C2621B4A247F0060399A /* newspaper-icon.png */; };
+		FFE4C27B1B4A247F0060399A /* nytimes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C2631B4A247F0060399A /* nytimes.jpg */; };
+		FFE4C27C1B4A247F0060399A /* nytimes.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C2641B4A247F0060399A /* nytimes.png */; };
+		FFE4C27D1B4A247F0060399A /* reddit.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C2651B4A247F0060399A /* reddit.png */; };
+		FFE4C27E1B4A247F0060399A /* SettingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C2661B4A247F0060399A /* SettingsController.swift */; };
+		FFE4C27F1B4A247F0060399A /* storyController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C2671B4A247F0060399A /* storyController.swift */; };
+		FFE4C2801B4A247F0060399A /* SwiftOverlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C2681B4A247F0060399A /* SwiftOverlays.swift */; };
+		FFE4C2811B4A247F0060399A /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C2691B4A247F0060399A /* SwiftyJSON.swift */; };
+		FFE4C2821B4A247F0060399A /* timeago.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C26A1B4A247F0060399A /* timeago.swift */; };
+		FFE4C2831B4A247F0060399A /* tmz.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C26B1B4A247F0060399A /* tmz.png */; };
+		FFE4C2841B4A247F0060399A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE4C26C1B4A247F0060399A /* ViewController.swift */; };
+		FFE4C2861B4B2F5C0060399A /* APnews.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE4C2851B4B2F5C0060399A /* APnews.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,14 +51,37 @@
 /* Begin PBXFileReference section */
 		FFE4C2301B4A23D50060399A /* Headlines.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Headlines.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFE4C2341B4A23D50060399A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FFE4C2351B4A23D50060399A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FFE4C2371B4A23D50060399A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FFE4C23A1B4A23D50060399A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FFE4C23C1B4A23D50060399A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		FFE4C23F1B4A23D50060399A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		FFE4C2451B4A23D50060399A /* HeadlinesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HeadlinesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFE4C24A1B4A23D50060399A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FFE4C24B1B4A23D50060399A /* HeadlinesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadlinesTests.swift; sourceTree = "<group>"; };
+		FFE4C2551B4A247F0060399A /* AFDateExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AFDateExtension.swift; sourceTree = "<group>"; };
+		FFE4C2561B4A247F0060399A /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FFE4C2571B4A247F0060399A /* Apple_Swift_Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Apple_Swift_Logo.png; sourceTree = "<group>"; };
+		FFE4C2581B4A247F0060399A /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Base.lproj; sourceTree = "<group>"; };
+		FFE4C2591B4A247F0060399A /* CNN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CNN.png; sourceTree = "<group>"; };
+		FFE4C25A1B4A247F0060399A /* default */ = {isa = PBXFileReference; lastKnownFileType = folder; path = default; sourceTree = "<group>"; };
+		FFE4C25B1B4A247F0060399A /* Fox News.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Fox News.png"; sourceTree = "<group>"; };
+		FFE4C25C1B4A247F0060399A /* headshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = headshot.png; sourceTree = "<group>"; };
+		FFE4C25D1B4A247F0060399A /* Huffington Post.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Huffington Post.jpg"; sourceTree = "<group>"; };
+		FFE4C25E1B4A247F0060399A /* Huffington Post.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Huffington Post.png"; sourceTree = "<group>"; };
+		FFE4C25F1B4A247F0060399A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FFE4C2601B4A247F0060399A /* Just.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Just.swift; sourceTree = "<group>"; };
+		FFE4C2611B4A247F0060399A /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		FFE4C2621B4A247F0060399A /* newspaper-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "newspaper-icon.png"; sourceTree = "<group>"; };
+		FFE4C2631B4A247F0060399A /* nytimes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nytimes.jpg; sourceTree = "<group>"; };
+		FFE4C2641B4A247F0060399A /* nytimes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nytimes.png; sourceTree = "<group>"; };
+		FFE4C2651B4A247F0060399A /* reddit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reddit.png; sourceTree = "<group>"; };
+		FFE4C2661B4A247F0060399A /* SettingsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
+		FFE4C2671B4A247F0060399A /* storyController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = storyController.swift; sourceTree = "<group>"; };
+		FFE4C2681B4A247F0060399A /* SwiftOverlays.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftOverlays.swift; sourceTree = "<group>"; };
+		FFE4C2691B4A247F0060399A /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		FFE4C26A1B4A247F0060399A /* timeago.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = timeago.swift; sourceTree = "<group>"; };
+		FFE4C26B1B4A247F0060399A /* tmz.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tmz.png; sourceTree = "<group>"; };
+		FFE4C26C1B4A247F0060399A /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FFE4C2851B4B2F5C0060399A /* APnews.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = APnews.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,8 +123,31 @@
 		FFE4C2321B4A23D50060399A /* Headlines */ = {
 			isa = PBXGroup;
 			children = (
-				FFE4C2351B4A23D50060399A /* AppDelegate.swift */,
-				FFE4C2371B4A23D50060399A /* ViewController.swift */,
+				FFE4C2551B4A247F0060399A /* AFDateExtension.swift */,
+				FFE4C2561B4A247F0060399A /* AppDelegate.swift */,
+				FFE4C2571B4A247F0060399A /* Apple_Swift_Logo.png */,
+				FFE4C2581B4A247F0060399A /* Base.lproj */,
+				FFE4C2591B4A247F0060399A /* CNN.png */,
+				FFE4C25A1B4A247F0060399A /* default */,
+				FFE4C25B1B4A247F0060399A /* Fox News.png */,
+				FFE4C25C1B4A247F0060399A /* headshot.png */,
+				FFE4C25D1B4A247F0060399A /* Huffington Post.jpg */,
+				FFE4C25E1B4A247F0060399A /* Huffington Post.png */,
+				FFE4C25F1B4A247F0060399A /* Images.xcassets */,
+				FFE4C2601B4A247F0060399A /* Just.swift */,
+				FFE4C2611B4A247F0060399A /* Media.xcassets */,
+				FFE4C2621B4A247F0060399A /* newspaper-icon.png */,
+				FFE4C2851B4B2F5C0060399A /* APnews.png */,
+				FFE4C2631B4A247F0060399A /* nytimes.jpg */,
+				FFE4C2641B4A247F0060399A /* nytimes.png */,
+				FFE4C2651B4A247F0060399A /* reddit.png */,
+				FFE4C2661B4A247F0060399A /* SettingsController.swift */,
+				FFE4C2671B4A247F0060399A /* storyController.swift */,
+				FFE4C2681B4A247F0060399A /* SwiftOverlays.swift */,
+				FFE4C2691B4A247F0060399A /* SwiftyJSON.swift */,
+				FFE4C26A1B4A247F0060399A /* timeago.swift */,
+				FFE4C26B1B4A247F0060399A /* tmz.png */,
+				FFE4C26C1B4A247F0060399A /* ViewController.swift */,
 				FFE4C2391B4A23D50060399A /* Main.storyboard */,
 				FFE4C23C1B4A23D50060399A /* Images.xcassets */,
 				FFE4C23E1B4A23D50060399A /* LaunchScreen.xib */,
@@ -193,8 +262,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				FFE4C23B1B4A23D50060399A /* Main.storyboard in Resources */,
+				FFE4C2731B4A247F0060399A /* Fox News.png in Resources */,
+				FFE4C27D1B4A247F0060399A /* reddit.png in Resources */,
+				FFE4C2791B4A247F0060399A /* Media.xcassets in Resources */,
+				FFE4C2751B4A247F0060399A /* Huffington Post.jpg in Resources */,
+				FFE4C26F1B4A247F0060399A /* Apple_Swift_Logo.png in Resources */,
+				FFE4C2741B4A247F0060399A /* headshot.png in Resources */,
+				FFE4C27A1B4A247F0060399A /* newspaper-icon.png in Resources */,
+				FFE4C27C1B4A247F0060399A /* nytimes.png in Resources */,
+				FFE4C2721B4A247F0060399A /* default in Resources */,
+				FFE4C2701B4A247F0060399A /* Base.lproj in Resources */,
+				FFE4C2711B4A247F0060399A /* CNN.png in Resources */,
 				FFE4C2401B4A23D50060399A /* LaunchScreen.xib in Resources */,
+				FFE4C2861B4B2F5C0060399A /* APnews.png in Resources */,
+				FFE4C2771B4A247F0060399A /* Images.xcassets in Resources */,
 				FFE4C23D1B4A23D50060399A /* Images.xcassets in Resources */,
+				FFE4C2831B4A247F0060399A /* tmz.png in Resources */,
+				FFE4C27B1B4A247F0060399A /* nytimes.jpg in Resources */,
+				FFE4C2761B4A247F0060399A /* Huffington Post.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +297,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FFE4C2381B4A23D50060399A /* ViewController.swift in Sources */,
-				FFE4C2361B4A23D50060399A /* AppDelegate.swift in Sources */,
+				FFE4C2801B4A247F0060399A /* SwiftOverlays.swift in Sources */,
+				FFE4C27E1B4A247F0060399A /* SettingsController.swift in Sources */,
+				FFE4C2821B4A247F0060399A /* timeago.swift in Sources */,
+				FFE4C26E1B4A247F0060399A /* AppDelegate.swift in Sources */,
+				FFE4C2841B4A247F0060399A /* ViewController.swift in Sources */,
+				FFE4C27F1B4A247F0060399A /* storyController.swift in Sources */,
+				FFE4C26D1B4A247F0060399A /* AFDateExtension.swift in Sources */,
+				FFE4C2811B4A247F0060399A /* SwiftyJSON.swift in Sources */,
+				FFE4C2781B4A247F0060399A /* Just.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
